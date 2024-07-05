@@ -5,3 +5,4 @@ smartnotebook/snb-web:1.8.1
 smartnotebook/snb-server:1.8.1
 smartnotebook/snb-node:1.8.1
 findepi/graalvm:java17-native
+jc21/nginx-proxy-manager
