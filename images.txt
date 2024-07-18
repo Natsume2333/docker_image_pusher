@@ -6,3 +6,4 @@ smartnotebook/snb-server:1.8.1
 smartnotebook/snb-node:1.8.1
 findepi/graalvm:java17-native
 jc21/nginx-proxy-manager
+bellsoft/liberica-openjdk-debian:17.0.11-cds
