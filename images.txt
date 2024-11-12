@@ -9,3 +9,4 @@ jc21/nginx-proxy-manager
 bellsoft/liberica-openjdk-debian:17.0.11-cds
 emqx/emqx
 rustdesk/rustdesk-server
+xhofe/alist:latest
