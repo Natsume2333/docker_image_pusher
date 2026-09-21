@@ -21,4 +21,5 @@ yisier1/nps:v0.26.36
 yisier1/npc:v0.26.36
 linuxserver/qbittorrent:5.2.3
 nyanmisaka/jellyfin:260326-amd64
+espressif/idf:release-v6.0.3
 
